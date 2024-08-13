@@ -34,7 +34,7 @@ export default function Index() {
 
                     <p className="text-sm uppercase text-center">
                         <a
-                            href="https://instagram.com/astropixl"
+                            href="https://instagram.com/wear.astropixl"
                             target="_blank"
                             rel="noreferrer"
                             className="hover:text-cyan-300 underline"
