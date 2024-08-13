@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "Kubo";
+    src: url("/fonts/KUBO.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "Host";
+    src: url("/fonts/HostGrotesk-Regular.woff2") format("woff2");
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Kubo", sans-serif;
+}
+
+body {
+    font-family: "Host", sans-serif;
+}
