@@ -28,7 +28,10 @@ export default function Index() {
                 </div>
                 <div className="w-full border-y border-white border-opacity-75 py-12">
                     <h1 className="text-[10vw] leading-none font-bold text-center">
-                        Astro<span className="pixel-font">Pixl</span>
+                        Astro
+                        <span className="text-[8.5714vw] pixel-font uppercase">
+                            Pix<span className="ms-[1vw]"></span>l
+                        </span>
                     </h1>
                 </div>
                 <div className="md:mt-1 w-full flex items-center justify-between flex-col md:flex-row gap-4 mt-8">
