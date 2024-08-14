@@ -8,6 +8,11 @@
     src: url("/fonts/HostGrotesk-Regular.woff2") format("woff2");
 }
 
+@font-face {
+    font-family: "FT88";
+    src: url("/fonts/FT88-Regular.ttf") format("truetype");
+}
+
 h1,
 h2,
 h3,
@@ -19,4 +24,9 @@ h6 {
 
 body {
     font-family: "Host", sans-serif;
+}
+
+.pixel-font {
+    font-family: "FT88", sans-serif;
+    letter-spacing: -2vw;
 }
